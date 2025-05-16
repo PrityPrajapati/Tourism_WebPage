@@ -1,6 +1,6 @@
 # 🌄 7 Sisters: Tourism Website  
 ### Welcome to Northeast India  
-**Author:** *Aavani Rajesh Perumbessi*
+**Author:** **Prity Prajapati**
 
 ---
 
@@ -88,7 +88,7 @@ tourism-website/
 
 ## 👩‍💻 Author
 
-**Aavani Rajesh Perumbessi**  and **Prity Prajapati**
+ **Prity Prajapati**
 _Passionate about front-end design, culture, and regional storytelling through web technologies._
 
 ---
